@@ -1,5 +1,9 @@
 # React Native Map Marker Move Animation
 
+## Demo Videos
+![Animated marker](react-native-map-move-marker-animation.gif)
+
+
 ## Requirements
 1. Expo version 51 or higher
 2. React Native Map version 1.14.0 or higher
